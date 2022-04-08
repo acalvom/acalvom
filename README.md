@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrea 👩‍</h1>
-<h3 align="center">Junior Frontend Developer from Spain 👩‍💻</h3>
+<h3 align="center">Junior Developer from Spain 👩‍💻</h3>
 
 <p align="center">
     I am a telecommunications engineer 📡 working as a web developer 🖥️. Since I finished my master's degree in web
-    engineering at Universidad Politécnica de Madrid 👩‍🎓 I have been working on Fundación General de la UPM 💼. In my
-    position I perform Frontend tasks such as web page layout, maintenance of the university website, content creation
-    and development of internal applications of the UPM.<br /><br />
+    engineering at Universidad Politécnica de Madrid 👩‍🎓 I started working as software developer on Fundación General de la UPM 💼. In my
+    position then I perform Frontend tasks such as web page layout, maintenance of the university website, content creation
+    and development of internal applications of the UPM. I have recently started working in DCSL Guidesmiths.<br /><br />
 </p>
 
 <h3 align="center"> ⬇️ You can find me here: ⬇️</h3>
