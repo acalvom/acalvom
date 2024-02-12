@@ -30,7 +30,7 @@ Happy coding! 🚀👨‍💻<br /><br />
 <p align="center">
     <a href="https://github.com/acalvom?tab=repositories" target="_blank"><img
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /</a>
-        <a href="https://www.linkedin.com/in/andrea-calvo-moreno-63a71b115/" target="blank" target="_blank"><img
+        <a href="https://www.linkedin.com/in/andrea-calvo-moreno/" target="blank" target="_blank"><img
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br /><br />
