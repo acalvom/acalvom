@@ -30,7 +30,7 @@ Happy coding! 🚀👨‍💻<br /><br />
 <p align="center">
     <a href="https://github.com/acalvom?tab=repositories" target="_blank"><img
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /</a>
-        <a href="https://www.linkedin.com/in/andrea-calvo-moreno-63a71b115/" target="blank" target="_blank"><img
+        <a href="https://www.linkedin.com/in/andrea-calvo-moreno/" target="blank" target="_blank"><img
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br /><br />
@@ -43,9 +43,6 @@ Happy coding! 🚀👨‍💻<br /><br />
         <th width="350">
             <h4 align="center">✔️ But I'm also good at:</h4>
         </th>
-        <th width="350">
-            <h4 align="center">💼 And I have also worked with:</h4>
-        </th>
     </tr>
     <tr>
         <td>
@@ -56,42 +53,26 @@ Happy coding! 🚀👨‍💻<br /><br />
                     alt="typescript" width="40" height="40" />
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" />
-                <img src="https://mui.com/static/logo.png"
-                    alt="materialui" width="40" height="40" />
+                <img src="https://imgs.search.brave.com/W9CbFyxwjuZCstu49xt6tccC5kk1TtWTumoZ_-X-XRU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc.svg"
+                    alt="tailwind" width="40" height="40" />
                 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
                     alt="nextjs" width="40" height="40" />
-                <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
-                    alt="styled-components" width="40" height="40" />
+                <img src="https://imgs.search.brave.com/3Y2328PQL9DRYyThiifH7rngOS9QGIY5eEGxocgOEoE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMzL0ZpZ21hLWxv/Z28uc3Zn.svg"
+                    alt="figma" width="40" height="40" />
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
                     height="40" />
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                    height="40" />
             </p>
         </td>
         <td>
             <p align="center">
+                <img src="https://imgs.search.brave.com/6f1NBTC5lm5yT71iPxJmH8JCKv8v4O5ofUNPgEQGF5I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Ry/by5qcy5vcmcvYXN0/cm8ucG5n" alt="astro" width="40" height="40" />
                 <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40" />
-                <img src="https://o.remove.bg/downloads/dd4842c5-4ce8-494c-a24d-90648648297f/idv3zwmSiY-removebg-preview.png" alt="cypress" width="40" height="40" />
+                <img src="https://imgs.search.brave.com/enhPamVZZFueHLjlXargE3bbJPmcqcVI08-HQZyjX24/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkSXFfa0Yw/cmIvaWR5clQxLXhq/Uy5zdmc_dXBkYXRl/ZD0xNjY4MDgxNzc0/MDg0.svg" alt="cypress" width="40" height="40" />
                 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                    alt="mongodb" width="50" height="50" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-                    alt="postgresql" width="40" height="40" />
-                 <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="mysql" width="60"
-                    height="40" />
-            </p>
-        </td>
-        <td>
-            <p align="center">
-                <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40"
+                 <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40"
                     height="40" />
                 <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" alt="sonarcloud"
                     width="40" height="40" />
-                <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel" width="40"
-                    height="40" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-                    height="40" />
-                <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
             </p>
         </td>
     </tr>
